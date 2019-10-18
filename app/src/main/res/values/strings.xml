@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assign1</string>
+    <string name="Name">John Keatley</string>
+    <string name="Hworld">Hello World!</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="student_id">Student Id:</string>
+    <string name="press_me">Press Me</string>
+    <string name="mess_toast">You pressed the button.</string>
+</resources>
